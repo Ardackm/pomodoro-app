@@ -1,0 +1,11 @@
+{
+  "name": "pomodoro-app",
+  "version": "0.0.1",
+  "description": "Pomodoro lesson app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ardackm",
+  "license": "ISC"
+}
